@@ -9,6 +9,6 @@ public class ThreadOne extends Thread {
 	@Override
 	public void run() {
 		common.method1();
-		
+		System.out.println("Fix version");
 	}
 }
