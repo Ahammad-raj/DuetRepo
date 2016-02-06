@@ -8,6 +8,7 @@ public class ProducerConsumerTest {
 		
 		System.out.println("Here");
 		System.out.println("Another Here");
+		System.out.println("Another Fix");
 /*		Queue<Integer> sharedQueu = new LinkedList<Integer>();
 		
 		Producer producer = new Producer(sharedQueu);
