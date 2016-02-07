@@ -10,5 +10,6 @@ public class ThreadOne extends Thread {
 	public void run() {
 		common.method1();
 		System.out.println("hi");
+		System.out.println("Fix version");
 	}
 }
