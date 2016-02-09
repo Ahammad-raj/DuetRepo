@@ -16,5 +16,6 @@ public class ThreadOne extends Thread {
 		System.out.println("local Changes in master");
 		System.out.println("something");
 		System.out.println("local");
+		System.out.println("here we go");
 	}
 }
