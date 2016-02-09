@@ -10,6 +10,8 @@ CommonForThreads common =null;
 	@Override
 	public void run() {
 		common.method2();
+		System.out.println("local");
 		
+		System.out.println("master");
 	}
 }
