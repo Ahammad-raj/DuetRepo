@@ -11,5 +11,7 @@ public class ThreadOne extends Thread {
 		common.method1();
 		System.out.println("hi");
 		System.out.println("Fix version");
+		
+		System.out.println("local branch to merge");
 	}
 }
